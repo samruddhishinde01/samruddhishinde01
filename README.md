@@ -1,16 +1,27 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Samruddhi Shinde</h1>
+<h3 align="center">Aspiring Data Analyst | BCA Graduate</h3>
 
-<!--
-**samruddhishinde01/samruddhishinde01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  Passionate about Data Analytics, Data Visualization and uncovering meaningful insights from data.
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👩‍💻 About Me
+- 🎓 BCA Graduate (2026)
+- 📊 Interested in Data Analytics and Business Intelligence
+- 🌱 Learning and improving my skills through practical projects
+- 🔍 Enjoy cleaning data, analyzing patterns and creating dashboards
+
+### 🛠️ Technical Skills
+- Excel
+- SQL (MySQL)
+- Python
+- Power BI
+- Tableau
+
+### 📂 My Projects
+Explore my repositories to see my data analytics projects and practical work.
+
+### 🤝 Connect With Me
+- LinkedIn: Add your LinkedIn URL
