@@ -22,9 +22,8 @@
 
 ### 📂 My Projects
 
+- [Parking Management & Revenue Analysis]()
 - [HR Analytics – Employee Attrition Analysis](YOUR_PROJECT_LINK)
-- [Parking Operations Analysis](YOUR_PROJECT_LINK)
-- [YouTube Habit Analyzer](YOUR_PROJECT_LINK)
 - [Mobile App Engagement Analysis](YOUR_PROJECT_LINK)
 - [E-commerce Customer Behaviour Analysis](YOUR_PROJECT_LINK)
 
