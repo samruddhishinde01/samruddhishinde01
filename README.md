@@ -23,7 +23,7 @@
 ### 📂 My Projects
 
 - [Parking Management & Revenue Analysis](https://github.com/samruddhishinde01/Parking-Management-Revenue-Analysis)
-- [HR Analytics – Employee Attrition Analysis](YOUR_PROJECT_LINK)
+- [HR Analytics – Employee Attrition Analysis](https://github.com/samruddhishinde01/HR-Analytics-Employee-Attrition-Analysis)
 - [Mobile App Engagement Analysis](YOUR_PROJECT_LINK)
 - [E-commerce Customer Behaviour Analysis](YOUR_PROJECT_LINK)
 
