@@ -24,7 +24,7 @@
 
 - [Parking Management & Revenue Analysis](https://github.com/samruddhishinde01/Parking-Management-Revenue-Analysis)
 - [HR Analytics – Employee Attrition Analysis](https://github.com/samruddhishinde01/HR-Analytics-Employee-Attrition-Analysis)
-- [Mobile App Engagement Analysis](YOUR_PROJECT_LINK)
+- [Mobile App Engagement Analysis](https://github.com/samruddhishinde01/Mobile-app-user-engagement-analysis)
 - [E-commerce Customer Behaviour Analysis](YOUR_PROJECT_LINK)
 
 ### 🤝 Connect With Me
