@@ -21,7 +21,12 @@
 - Tableau
 
 ### 📂 My Projects
-Explore my repositories to see my data analytics projects and practical work.
+
+- [HR Analytics – Employee Attrition Analysis](YOUR_PROJECT_LINK)
+- [Parking Operations Analysis](YOUR_PROJECT_LINK)
+- [YouTube Habit Analyzer](YOUR_PROJECT_LINK)
+- [Mobile App Engagement Analysis](YOUR_PROJECT_LINK)
+- [E-commerce Customer Behaviour Analysis](YOUR_PROJECT_LINK)
 
 ### 🤝 Connect With Me
 - LinkedIn: Add your LinkedIn URL
