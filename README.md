@@ -27,5 +27,9 @@
 - [Mobile App Engagement Analysis](https://github.com/samruddhishinde01/Mobile-app-user-engagement-analysis)
 - [E-commerce Customer Behaviour Analysis](https://github.com/samruddhishinde01/Ecommerce-Customer-Purchase-Analysis)
 
+### 📈 GitHub Activity
+
+I continuously practice data analytics and work on projects to improve my technical and analytical skills.
+
 ### 🤝 Connect With Me
-- [LinkedIn:]_(www.linkedin.com/in/samruddhi-shinde01)
+- [LinkedIn](https://www.linkedin.com/in/samruddhi-shinde01/)
